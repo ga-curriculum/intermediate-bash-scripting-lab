@@ -9,17 +9,24 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-exercise = new Template.Microlesson {
-  friendlyName = "Exercise"
-  dirName = "exercise"
+creatingYourFirstMenu = new Template.Microlesson {
+  friendlyName = "Creating Your First Menu"
+  dirName = "creating-your-first-menu"
   type = "Content"
   videoUrl = ""
 }
 
-levelUp = new Template.Microlesson {
-  friendlyName = "Level Up"
-  dirName = "level-up"
-  type = "Level Up Content"
+systemInfoCommands = new Template.Microlesson {
+  friendlyName = "Implementing System Information Commands"
+  dirName = "system-info-commands"
+  type = "Content"
+  videoUrl = ""
+}
+
+enhancingYourScript = new Template.Microlesson {
+  friendlyName = "Enhancing Your Script"
+  dirName = "enhancing-your-script"
+  type = "Content"
   videoUrl = ""
 }
 

@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Intermediate Bash Scripting Lab</span>
   <span class="subhead">Setup</span>
 </h1>
 
@@ -17,12 +17,12 @@ cd ~/code/ga/labs
 
 tktk Use the below instructions if students will need starter code from a separate module to complete the lab exercise. If they do not, delete this section and all of its contents.
 
-Fork the [[tktk Headline] Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name-starter-code) repository.
+Fork the [Intermediate Bash Scripting Lab Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/intermediate-bash-scripting-lab-starter-code) repository.
 
 Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/<your-username>/tktk-module-name-starter-code.git tktk-module-name
+git clone https://git.generalassemb.ly/<your-username>/intermediate-bash-scripting-lab-starter-code.git intermediate-bash-scripting-lab
 ```
 
 Replace `<your-username>` (including the `<` and `>`) with your General Assembly GitHub Enterprise username before you run this command.
@@ -31,22 +31,22 @@ Replace `<your-username>` (including the `<` and `>`) with your General Assembly
 
 tktk Use the below instructions if students do not need starter code from a separate module to complete the lab exercise. If they do, delete this section and all of its contents.
 
-Make a new repository on [GitHub](https://github.com/) named `tktk-module-name`.
+Make a new repository on [GitHub](https://github.com/) named `intermediate-bash-scripting-lab`.
 
 Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
-git clone https://github.com/<your-username>/tktk-module-name.git
+git clone https://github.com/<your-username>/intermediate-bash-scripting-lab.git
 ```
 
 Replace `<your-username>` (including the `<` and `>`) with your GitHub username before you run this command.
 
 ### Launch in VS Code
 
-Next, `cd` into the cloned directory, <code class="filepath">tktk-module-name</code>:
+Next, `cd` into the cloned directory, <code class="filepath">intermediate-bash-scripting-lab</code>:
 
 ```bash
-cd tktk-module-name
+cd intermediate-bash-scripting-lab
 ```
 
 Open the contents of the directory in VS Code:
