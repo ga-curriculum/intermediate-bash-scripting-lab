@@ -16,4 +16,4 @@ In this lab you'll create a simple menu-driven Bash script that displays various
 
 ## Rubric
 
-[Rubric](./rubrics/itb.md)
+[Rubric](../rubrics/itb.md)

@@ -17,4 +17,4 @@ In this lab you'll create a simple menu-driven Bash script that displays various
 
 ## Rubric
 
-[Rubric](./rubrics/fallback.md)
+[Rubric](../rubrics/fallback.md)
