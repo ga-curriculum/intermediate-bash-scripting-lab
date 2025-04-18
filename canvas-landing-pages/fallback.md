@@ -6,10 +6,15 @@
 
 ## About
 
-By the end of this lab, you'll be able to create a simple menu-driven Bash script that displays various system information using basic Bash commands and control structures.
+In this lab you'll create a simple menu-driven Bash script that displays various system information using basic Bash commands and control structures.
 
 ## Content
 
-- [Creating Your First Menu](../creating-your-first-menu/README.md)
-- [Implementing System Information Commands](../system-info-commands/README.md)
-- [Enhancing Your Script](../enhancing-your-script/README.md)
+- [Setup](../setup/README.md)
+- [Create Your First Menu](../create-your-first-menu/README.md)
+- [Implement System Information Commands](../implement-system-information-commands/README.md)
+- [Enhance Your Script](../enhance-your-script/README.md)
+
+## Rubric
+
+[Rubric](./rubrics/fallback.md)

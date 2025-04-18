@@ -9,23 +9,23 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-creatingYourFirstMenu = new Template.Microlesson {
-  friendlyName = "Creating Your First Menu"
-  dirName = "creating-your-first-menu"
+createYourFirstMenu = new Template.Microlesson {
+  friendlyName = "Create Your First Menu"
+  dirName = "create-your-first-menu"
   type = "Content"
   videoUrl = ""
 }
 
-systemInfoCommands = new Template.Microlesson {
-  friendlyName = "Implementing System Information Commands"
-  dirName = "system-info-commands"
+implementSystemInformationCommands = new Template.Microlesson {
+  friendlyName = "Implement System Information Commands"
+  dirName = "implement-system-information-commands"
   type = "Content"
   videoUrl = ""
 }
 
-enhancingYourScript = new Template.Microlesson {
-  friendlyName = "Enhancing Your Script"
-  dirName = "enhancing-your-script"
+enhanceYourScript = new Template.Microlesson {
+  friendlyName = "Enhance Your Script"
+  dirName = "enhance-your-script"
   type = "Content"
   videoUrl = ""
 }

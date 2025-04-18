@@ -20,24 +20,24 @@ repo {
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.createYourFirstMenu
+      mls.implementSystemInformationCommands
+      mls.enhanceYourScript
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
       mls.setup
-      mls.creatingYourFirstMenu
-      mls.systemInfoCommands
-      mls.enhancingYourScript
-    }
-  }
-    new {
-    name = "itb"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.creatingYourFirstMenu
-      mls.systemInfoCommands
-      mls.enhancingYourScript
+      mls.createYourFirstMenu
+      mls.implementSystemInformationCommands
+      mls.enhanceYourScript
     }
   }
 }

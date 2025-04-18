@@ -14,7 +14,7 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Creating Your First Menu",
-          "dirName": "creating-your-first-menu",
+          "friendlyName": "Create Your First Menu",
+          "dirName": "create-your-first-menu",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Implementing System Information Commands",
-          "dirName": "system-info-commands",
+          "friendlyName": "Implement System Information Commands",
+          "dirName": "implement-system-information-commands",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,8 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Enhancing Your Script",
-          "dirName": "enhancing-your-script",
+          "friendlyName": "Enhance Your Script",
+          "dirName": "enhance-your-script",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -83,7 +83,7 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
@@ -99,8 +99,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Creating Your First Menu",
-          "dirName": "creating-your-first-menu",
+          "friendlyName": "Create Your First Menu",
+          "dirName": "create-your-first-menu",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -109,8 +109,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Implementing System Information Commands",
-          "dirName": "system-info-commands",
+          "friendlyName": "Implement System Information Commands",
+          "dirName": "implement-system-information-commands",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -119,8 +119,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Enhancing Your Script",
-          "dirName": "enhancing-your-script",
+          "friendlyName": "Enhance Your Script",
+          "dirName": "enhance-your-script",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

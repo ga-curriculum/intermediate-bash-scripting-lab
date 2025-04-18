@@ -5,23 +5,33 @@
 
 ## About
 
-By the end of this lab, you'll be able to create a simple menu-driven Bash script that displays various system information using basic Bash commands and control structures.
+In this lab you'll create a simple menu-driven Bash script that displays various system information using basic Bash commands and control structures.
 
 ## Content
 
-- [Creating Your First Menu](./creating-your-first-menu/README.md)
-- [Implementing System Information Commands](./system-info-commands/README.md)
-- [Enhancing Your Script](./enhancing-your-script/README.md)
+- [Setup](./setup/README.md)
+- [Create Your First Menu](./create-your-first-menu/README.md)
+- [Implement System Information Commands](./implement-system-information-commands/README.md)
+- [Enhance Your Script](./enhance-your-script/README.md)
+
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
 
 ## Internal
 
 ### Prerequisites
 
-- [Intro to Bash Scripting Labs](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-bash-scripting-lab/canvas-landing-pages/itb.html)
+- Intro to Bash Scripting Lab
 
 ### Time to complete
 
 Estimated time to complete core lab exercise: **30 min**
+
+### Solution code
+
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intermediate-bash-scripting-lab-solution)
 
 ### Course landing pages
 

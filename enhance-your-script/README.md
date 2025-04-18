@@ -1,9 +1,13 @@
 <h1>
   <span class="headline">Intermediate Bash Scripting Lab</span>
-  <span class="subhead">Creating Your First Menu</span>
+  <span class="subhead">Enhance Your Script</span>
 </h1>
 
-In this activity, you'll Improve your script by adding command-line arguments, a help option, and better formatting for displayed information.
+**Learning objective**: By the end of this exercise, students will be able to enhance a Bash script with command-line arguments, help options, and improved formatting.
+
+## Exercise
+
+In this activity, you'll improve your script by adding command-line arguments, a help option, and better formatting for displayed information.
 
 Let's make your script more user-friendly and powerful with some additional features.
 
@@ -30,7 +34,7 @@ Let's make your script more user-friendly and powerful with some additional feat
 5. Add a timestamp to show when the information was generated.
 6. Test all your new features to make sure they work correctly.
 
-**Think About:**
+## Think about
 
 - How can you check for command-line arguments in a Bash script?
 - What command will show you the most CPU-intensive processes?
