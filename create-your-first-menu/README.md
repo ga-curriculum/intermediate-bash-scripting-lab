@@ -11,13 +11,16 @@ In this activity, you'll create a basic menu system that will serve as the found
 
 1. Create a new file called `sysinfo.sh`
 2. Add a shebang line at the top of your file to specify that this is a Bash script.
-3. Add a title for your script using echo commands.
-4. Create a menu that displays at least 4 options:
+3. Add a title for your script using echo commands so it is shown to users when they start the script.
+4. Create a menu that displays at least 4 options, and prompts the user to select one, similar to the following:
 
-   - Option 1: Show System Info
-   - Option 2: Show Disk Usage
-   - Option 3: Show Current Users
-   - Option 4: Exit
+   ```plaintext
+   Welcome, select one of the following options using the number keys:
+   1: Show System Info
+   2: Show Disk Usage
+   3: Show Current Users
+   4: Exit
+   ```
 
 5. Use the read command to capture the user's choice.
 

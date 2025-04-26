@@ -13,23 +13,48 @@ Let's make your script more user-friendly and powerful with some additional feat
 
 1. Add a new menu option:
 
-   - Option 4: Show Top Processes
-   - Option 5: Exit (moved from 4 to 5)
+   The new menu should look like the following - notice that a new option (`Show Top Processes`) has been added, and the order of the options has changed:
+
+   ```plaintext
+   Welcome, select one of the following options using the number keys:
+   1: Show System Info
+   2: Show Disk Usage
+   3: Show Current Users
+   4: Show Top Processes
+   5: Exit
+   ```
 
 2. Implement the "Show Top Processes" option to display:
 
-   - The 5 most CPU-intensive processes
-   - Format the output to show at least: PID, user, CPU%, and command name
+   - The 5 most CPU-intensive processes.
+   - Format the output to show at least: PID, user, CPU%, and command name, similar to the following:
+
+     ```plaintext
+     +------+-------+--------+-------------+
+     | PID  | User  | CPU%   | Command     |
+     +------+-------+--------+-------------+
+     | 1234 | root  | 75.2%  | firefox     |
+     | 5678 | userA | 50.1%  | chrome      |
+     | 9101 | userA | 33.6%  | python      |
+     | 1213 | userA | 25.9%  | java        |
+     | 1415 | userA | 15.3%  | node        |
+     +------+-------+--------+-------------+
+     ```
 
 3. Add a simple help feature:
 
-   - If the script is called with `-h` or `--help` as a command line argument, display a brief help message explaining what the script does
-   - Make sure the script exits after displaying help
+   - If the script is called with `-h` or `--help` as a command line argument (as shown below), display a brief help message explaining what the script does.
+
+     ```bash
+     ./sysinfo.sh -h
+     ```
+
+   - Make sure the script exits after displaying help.
 
 4. Improve the formatting for all information displays:
 
-   - Add clear headers for each section
-   - Consider using simple ASCII borders or dividers between sections
+   - Add clear headers for each section.
+   - Consider using simple ASCII borders or dividers between sections.
 
 5. Add a timestamp to show when the information was generated.
 6. Test all your new features to make sure they work correctly.
