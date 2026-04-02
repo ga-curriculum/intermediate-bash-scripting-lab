@@ -35,8 +35,8 @@ Estimated time to complete core lab exercise: **30 min**
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-bash-scripting-lab/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intermediate-bash-scripting-lab/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://ga-curriculum.github.io/intermediate-bash-scripting-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://ga-curriculum.github.io/intermediate-bash-scripting-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -48,4 +48,4 @@ Estimated time to complete core lab exercise: **30 min**
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
