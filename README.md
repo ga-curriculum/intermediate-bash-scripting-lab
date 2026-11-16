@@ -31,7 +31,7 @@ Estimated time to complete core lab exercise: **30 min**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intermediate-bash-scripting-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/intermediate-bash-scripting-lab-solution)
 
 ### Course landing pages
 
